@@ -1,6 +1,6 @@
 # Group10-Bored-Coders
 Used to keep track of Group 10 events. 
-Check out our website [Website]
+Check out our [Website].
 
 <br />
 <br />
