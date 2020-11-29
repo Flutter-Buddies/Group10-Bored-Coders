@@ -1,0 +1,56 @@
+
+
+body {
+    background-color: lightseagreen;
+    color: white;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+p {
+    font-size: 1.7em;
+}
+
+
+.my-border {
+    border: dashed 5px white;
+}
+
+.text-fix {
+    text-align: center;
+    font-weight: bold;
+    font-size: 380%;
+    text-decoration: underline;
+}
+
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://i.pinimg.com/originals/4b/da/f9/4bdaf99a2b87f591b75cb636c8661f71.png);
+    margin-bottom:0;
+  }
+
+.navbar li a {
+    color: white;
+}
+
+.navbar-brand {
+    color:white;
+   
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbar li a:hover {
+    color: #000000 !important;
+    background-color: #fff !important;
+}
+
+ul .navbar-nav {
+    margin-right: 100px;
+}
