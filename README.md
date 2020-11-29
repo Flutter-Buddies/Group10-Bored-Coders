@@ -1,5 +1,6 @@
 # Group10-Bored-Coders
-Used to keep track of Group 10 events 
+Used to keep track of Group 10 events. 
+Check out our website [Website]
 
 <br />
 <br />
@@ -25,3 +26,4 @@ Used to keep track of Group 10 events
 
 [Your-Destini]: https://github.com/Flutter-Buddies/Your-Destiny
 [Trello]: https://trello.com/b/Vn3yEVD4/boredcoders
+[Website]: https://flutter-buddies.github.io/Group10-Bored-Coders/.
