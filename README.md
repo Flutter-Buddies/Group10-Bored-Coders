@@ -16,6 +16,20 @@ Check out our [Website].
 *  Tragikomedes did a presentation regarding the testing for [Your-Destini] 
 
 
+<hr/>
+
+### December 4, 2020
+*  Decided to build a futuristic messenger(Punk Messenger App).
+*  Decided to add 'MiCards' for each developer on the Github Pages.
+*  We have one week to come up with a good Team Name. Example of a cool team Name - Team 4 Star.
+*  Hans will do a presentation at the next Mass Meeting. If you are willing to do a presentaton let us know. 
+*  Gracen will organise his AR app idwa which we will then work on.
+* Question: What does Success look like to you?
+* The decision was made to do an introductory course on Github in order for the team to use 'clean coding guidelines'. 
+* Research responsive layouts then talk about your findings at the next meeting.
+* Members can write an article on our Github pages [Website].
+
+
 
 
 
