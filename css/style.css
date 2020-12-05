@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-hr {
+hr { /*Line set for blog*/
     border: 2px solid black;
 }
 
@@ -14,11 +14,11 @@ p {
 }
 
 
-.my-border {
+.my-border { 
     border: dashed 5px white;
 }
 
-.text-fix {
+.text-fix {  /*Used to format the titles */
     text-align: center;
     font-weight: bold;
     font-size: 380%;
@@ -53,4 +53,30 @@ p {
 
 ul .navbar-nav {
     margin-right: 100px;
+}
+
+
+.card-size {  
+    width: 40%;
+    height: 40%;
+}
+
+
+.bg-1 { /*background color of the mi-card*/
+    background-color: lightseagreen;
+}
+
+.mi-card-set { /*used to set up the mi-card*/
+    width: 85%;
+    border: 4px solid white;
+}
+
+
+.mi-title-text {
+    color:black;
+}
+
+.blog-img { /*Settings needed for blog image */
+    width: 50%;
+    height:50%;
 }
