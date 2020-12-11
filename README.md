@@ -31,6 +31,17 @@ Check out our [Website].
 
 
 
+<hr/>
+
+### Agenda for December 10, 2020
+* Discuss homework
+* Talk about the Punk Messenger App- How far can we push the design? What extra features would you want to see?
+* Discuss responsive design.
+* Practice Code reviews.
+* Who created their Mi-cards. Discuss the Mi-Cards.
+* General Discussion.
+* Discuss future projects.
+
 
 
 
