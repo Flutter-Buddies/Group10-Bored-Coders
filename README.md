@@ -23,7 +23,7 @@ Check out our [Website].
 *  Decided to add 'MiCards' for each developer on the Github Pages.
 *  We have one week to come up with a good Team Name. Example of a cool team Name - Team 4 Star.
 *  Hans will do a presentation at the next Mass Meeting. If you are willing to do a presentaton let us know. 
-*  Grayson will organise his AR app idwa which we will then work on.
+*  Gracen will organise his AR app idwa which we will then work on.
 * Question: What does Success look like to you?
 * The decision was made to do an introductory course on Github in order for the team to use 'clean coding guidelines'. 
 * Research responsive layouts then talk about your findings at the next meeting.
@@ -41,19 +41,6 @@ Check out our [Website].
 * Who created their Mi-cards. Discuss the Mi-Cards.
 * General Discussion.
 * Discuss future projects.
-
-
-### January 8, 2021
-* HAPPY NEW YEAR🎉🎉🎉
-* Started Discussions around the Punk Messenger App.
-* It was decided that the Punk Messenger app will mainly be for Desktop and Mobile.
-* A post regarding how to handle secrets will be done by Hans.
-* Homework was discussed.
-* Remember to do your Mi-Cards 😁.
-* Grayson will prepare a presentation regarding the work done on his project.
-* New member introduced Codeek.
-* Still trying to come up with a group name.
-* Members were encouraged to contribute to the projects happening in the server.
 
 
 
