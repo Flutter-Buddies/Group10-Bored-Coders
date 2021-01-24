@@ -55,7 +55,34 @@ Check out our [Website].
 * New member introduced Codeek.
 * Still trying to come up with a group name.
 * Members were encouraged to contribute to the projects happening in the server.
-* I am considering we make a game in the future🤔
+* I am considering we make a game in the future🤔.
+
+
+
+<hr/>
+
+### January 15, 2021
+* Discussed adding Mi-Cards to the Community App
+* General Discussion around the Team and moving forward.
+* Checked Homework
+
+
+
+
+<hr/>
+
+### January 22, 2021
+* Discussed the server community App🚄 .
+* Planned a group bonding activity (Among Us)🎮 .
+* Suggestions to make an app that we can publish on the play store🏬 .
+* Homework discussion🤓.
+* New goals and deadlines need to be properly set up in order to ensure execution🌊.
+* Team name StoneCode⚡.
+
+
+
+
+
 
 
 
