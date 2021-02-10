@@ -83,6 +83,31 @@ Check out our [Website].
 
 
 
+<hr/>
+
+### January 29, 2021
+* Discussed the server community App🚄 .
+* Homework discussion🤓.
+* Punk Messenger discussion.
+* Ended meeting early to attend Monthly Mass Meeting
+
+
+<hr/>
+
+### Februaryy 5, 2021
+* Discussed the server community App🚄 .
+* Homework discussion🤓.
+* Nim displayed the app he was working on.
+* Punk Messenger discussion
+
+
+
+
+
+
+
+
+
 
 
 
